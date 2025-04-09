@@ -1,15 +1,4 @@
 return {
-"giauk113", -- Buyer 1
-"bemancau", -- Buyer 2
-"Fixman_china001", -- Buyer 3
-"XxVioIetBoyKs", -- Buyer 4
-"thanhdung114", -- Buyer 5
-"azpro2k7", 
-"accquaydffirstsea1", 
-"ACE_xXAZPROGOD123Xx", 
-"acclaybounty01",
-"dangw0",
-"acclaybounty07",
 "", -- Dương 2
 "darkbluedrag", -- Khôi 2
 "LHPGamingVN", -- Khôi 3
@@ -25,9 +14,7 @@ return {
 "Imlovinitallday",
 "SPxtritoxic113",
 "Farquaneta",
-"DarkEsper_057",
 "darkbluedrag",
 "T05_7",
 "asdfghjklzxcvbnmdz"
-
 }
