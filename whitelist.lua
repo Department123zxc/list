@@ -67,6 +67,6 @@ return {
 "F04409E6-CC5A-42A7-9C36-3A639203FAE3", -- Nguyễn Minh Nhật
 "5c004c35-b3ae-462c-8be6-1d181c95b8af", -- Trần Bảo Khang
 "C914F29A-70F2-4F48-AC89-93E88DD6FC94", -- Đinh Đức Thành
-"340DCD66-114A-44BB-B61C-7AAE03384C72", -- Thành Đạt
+"26B434B8-E9E3-4A21-B27E-78912AC63B87", -- Thành Đạt
 "---" -- Gia Khánh
 }
