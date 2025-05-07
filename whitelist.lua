@@ -70,5 +70,5 @@ return {
 "340DCD66-114A-44BB-B61C-7AAE03384C72", -- Thành Đạt
 "35f8b102-c2c8-4119-849f-af382bb43f71", -- Nguyễn Hồng Đạt
 "---",-- Gia Khánh
-"7ce46ec9-803d-4a9c-ab8d-0beaa0ee21e0" -- Nhật Quang
+"1c9dedde-4a95-46f7-9835-8abb67018cac" -- Nhật Quang
 }
