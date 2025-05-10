@@ -72,6 +72,7 @@ return {
 "5C4FBE16-E749-44F0-8D37-5EDF005C6343", -- Kaloos Sầm
 "---",-- Gia Khánh
 "1c9dedde-4a95-46f7-9835-8abb67018cac", -- Nhật Quang
-"430db6f4-8305-4e49-a22a-c84684df3b54" --Hoàng Đức Nguyễn 
+"430db6f4-8305-4e49-a22a-c84684df3b54", --Hoàng Đức Nguyễn
+"590E0201-3D17-41AB-9A78-8B4ED2C0D456" -- Trần Khanh
 
 }
