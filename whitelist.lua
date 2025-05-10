@@ -71,5 +71,7 @@ return {
 "4ba62768-ed5b-4deb-a4a4-90692134ad71", -- Nguyễn Hồng Đạt
 "5C4FBE16-E749-44F0-8D37-5EDF005C6343", -- Kaloos Sầm
 "---",-- Gia Khánh
-"1c9dedde-4a95-46f7-9835-8abb67018cac" -- Nhật Quang
+"1c9dedde-4a95-46f7-9835-8abb67018cac", -- Nhật Quang
+"430db6f4-8305-4e49-a22a-c84684df3b54" --Hoàng Đức Nguyễn 
+
 }
