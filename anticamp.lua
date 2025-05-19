@@ -4,7 +4,6 @@ return {
 "SML_SsBettSenpaoxX", -- Khôi 6
 "azdfghjklzxcvbnmdz", -- Khôi 7
 "kaloss13", -- Khôi 8
-"phuongcute2k2", -- Khôi 12
 "cmmbeoqua3", -- khoi 13
 "Killar123",
 "highmook",
