@@ -31,7 +31,7 @@ return {
 "a0ce005b-f08d-4f09-95c4-f75992eac22d", -- Minh Chính
 "f9588228-e58c-4ce2-9244-bb51f2449911", -- Nguyễn Bin
 "457819c1-39c5-4f30-bc88-49c061e1aa18", -- Bùi Đức An
-"8C899394-CA75-48D5-A33B-035F43780D3D", -- Trần Huy Quang
+"812e69df-7156-4856-a281-d1b47bb417a5", -- Trần Huy Quang
 "e535938e-f39a-490c-9131-17bcb21cb2a3", -- Nguyễn Văn Bảo Khánh
 "d0f61a34-c778-4ca3-b7de-b9ea8b199e50", -- Lê Khánh Đăng
 "0", -- Tuấn Khải
@@ -44,7 +44,7 @@ return {
 "8b91e3a1-dbde-42c3-8327-2ecaecebfb83", -- Quang Huy
 "83a2c7c6-32f7-45d2-bfa1-18959488bb2c", -- Hieu Quyet Vu
 "2a937f57-f59a-421d-b459-ef1786de2ed2", -- Phạm Long
-"21f33841-f883-4801-895e-a7d146aff733", -- Xiao Nima
+"4336409d-bb3b-42c4-842b-6cb8eb3c9f86", -- Xiao Nima
 "CA1E9954-35F0-4CE3-B0B5-392EA181EBC4", -- Xiao Nima 2
 "d3605720-8610-4860-a367-39952024e6f7", -- Boredz
 "f7497d15-d0ce-4538-9fe0-19fad408dc4e", -- Lê Hiếu
