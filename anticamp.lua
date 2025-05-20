@@ -15,6 +15,5 @@ return {
 "T05_7",
 "darkbluedrag",
 "asdfghjklzxcvbnmdz",
-"iiDarius_XD",
 "ngckhoi"
 }
