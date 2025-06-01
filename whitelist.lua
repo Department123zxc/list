@@ -64,7 +64,7 @@ return {
 "206b855e-eaba-43f9-829b-8d67436f00c1", --Bảo Quốc
 "394708B8-6BB1-44E8-9BA7-78699705D173", -- Dương Văn Nguyên🌼
 "20b5448c-bfe8-4dd8-a871-1896caeb2164", -- Nguyễn Hữu Duy
-"56F277C5-DF50-4A5B-A56F-FE7509EDF4D5", -- Nguyễn Minh Nhật
+"51766BA7-F171-4712-91A5-62D0F4726CEA", -- Nguyễn Minh Nhật
 "f176034b-f522-4ceb-b757-ed9145650abd", -- Trần Bảo Khang
 "C914F29A-70F2-4F48-AC89-93E88DD6FC94", -- Đinh Đức Thành
 "340DCD66-114A-44BB-B61C-7AAE03384C72", -- Thành Đạt
