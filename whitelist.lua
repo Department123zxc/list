@@ -70,7 +70,7 @@ return {
 "340DCD66-114A-44BB-B61C-7AAE03384C72", -- Thành Đạt
 "4ba62768-ed5b-4deb-a4a4-90692134ad71", -- Nguyễn Hồng Đạt
 "96FF28C9-C6C3-4430-8707-1699DEE2E215", -- Kaloos Sầm
-"382b0dd9-750c-465e-90a7-fcbe3864ec32", -- Ngô Gia Huy 3
+"7f2b86e8-75f9-4323-ad17-04ccb838526b", -- Ngô Gia Huy 3 (09/06)
 "---",-- Gia Khánh
 "1c9dedde-4a95-46f7-9835-8abb67018cac", -- Nhật Quang
 "1f3831d0-b060-4fba-a233-a857b654afe1", --Hoàng Đức Nguyễn
