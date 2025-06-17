@@ -18,6 +18,6 @@ return {
 295774288 and "hungtolaitapxa", -- hưng
 26363504 and "Killar123",
 27037854 and "highmook", -- khoi
-29796416 and "OmegaHackzorz",
+1498036295 and "CauNoob2020",
 1323012227 and "SPxtritoxic113"
 }
