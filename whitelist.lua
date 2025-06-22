@@ -70,8 +70,8 @@ return {
 "340DCD66-114A-44BB-B61C-7AAE03384C72", -- Thành Đạt
 "4ba62768-ed5b-4deb-a4a4-90692134ad71", -- Nguyễn Hồng Đạt
 "96FF28C9-C6C3-4430-8707-1699DEE2E215", -- Kaloos Sầm
-"7e83bdf4-6413-4a82-9a8e-a947ba79590a", -- Ngô Gia Huy (09/06)
-"440a23c5-9c1f-41d0-826c-295c7f738447", -- Ngô Gia Huy 2 (12/06)
+"4841e945-2929-4881-9a8a-a7dc52d201b7", -- Ngô Gia Huy (22/06)
+"7e83bdf4-6413-4a82-9a8e-a947ba79590a", -- Ngô Gia Huy 2 (22/06)
 "1c9dedde-4a95-46f7-9835-8abb67018cac", -- Nhật Quang
 "ddf946f1-19a2-4aa6-a953-fff5a887e680", --Hoàng Đức Nguyễn
 "590E0201-3D17-41AB-9A78-8B4ED2C0D456", -- Trần Khanh
