@@ -19,5 +19,6 @@ return {
 26363504 and "Killar123",
 27037854 and "highmook", -- khoi
 1498036295 and "CauNoob2020",
-1323012227 and "SPxtritoxic113"
+1323012227 and "SPxtritoxic113",
+ 3680606028 and "khoingc42"
 }
