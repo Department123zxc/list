@@ -14,11 +14,13 @@ return {
 7501327506 and "cmmbeoqua3", -- Khôi 14
 7501302650 and "cmmbeoqua1", -- Khôi 15
 961144978 and "ngckhoi", -- khoi main
-3162806910 and "0339177452hm", -- khoi 
 295774288 and "hungtolaitapxa", -- hưng
 26363504 and "Killar123",
 27037854 and "highmook", -- khoi
 1498036295 and "CauNoob2020",
 1323012227 and "SPxtritoxic113",
- 3680606028 and "khoingc42"
+3680606028 and "khoingc42",
+3001545457 and "ConCacGiem1231",
+1384181523 and "Rare_box1v",
+2666846764 and "God_ViSaTony"
 }
