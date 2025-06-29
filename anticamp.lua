@@ -20,5 +20,6 @@ return {
 "Farquaneta",
 "Rare_box1v",
 "God_ViSaTony",
-"CauNoob2020"
+"CauNoob2020",
+"khoingc32"
 }
