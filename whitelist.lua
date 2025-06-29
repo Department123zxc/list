@@ -82,6 +82,6 @@ return {
 "00d7f407-b938-4134-8ea7-67755db74cf4", --Huỳnh Hoài Thương
 "379ccac3-7ed3-4fd0-9e49-f35751ed3c1d", -- pp discord
 "a3b57364-c49f-440e-91a9-0cfb69bc6841", -- Phạm Nguyên Hạo
-"e6da5a2c-a598-4259-9c9a-7292359079f6", -- Võ Thạnh
+"6A760313-4C3E-4C07-AC01-92A594FF3DB2", -- Võ Thạnh
 "0dae5822-7bc9-4136-ae77-d4b3502223b1" -- Gia Khánh 
 }
