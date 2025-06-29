@@ -22,5 +22,6 @@ return {
 3680606028 and "khoingc42",
 3001545457 and "ConCacGiem1231",
 1384181523 and "Rare_box1v",
-2666846764 and "God_ViSaTony"
+2666846764 and "God_ViSaTony",
+3680591873 and "khoingc32"
 }
