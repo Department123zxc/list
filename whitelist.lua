@@ -78,7 +78,7 @@ return {
 "06f79286-2f14-4d28-832d-b250dc92c754", -- Trần Khánh
 "8799f36d-6444-4ba6-a416-fbb744038d1b", -- Rig Motee
 "c44cf964-75f0-4565-a69b-e488aba056d8", -- Rig Motee 2
-"af1afff5-5e60-4507-b38c-18c03e6bcf45", -- Thi Thach
+"30bb5c1f-40ea-4548-942e-fb4e68ecc7cc", -- Mạnh Nhất Lịch Sử
 "00d7f407-b938-4134-8ea7-67755db74cf4", --Huỳnh Hoài Thương
 "379ccac3-7ed3-4fd0-9e49-f35751ed3c1d", -- pp discord
 "a3b57364-c49f-440e-91a9-0cfb69bc6841", -- Phạm Nguyên Hạo
