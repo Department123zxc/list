@@ -84,5 +84,6 @@ return {
 "a3b57364-c49f-440e-91a9-0cfb69bc6841", -- Phạm Nguyên Hạo
 "6A760313-4C3E-4C07-AC01-92A594FF3DB2", -- Võ Thạnh
 "e677820b-8acc-4717-9a45-913dcc64f92c", -- Nguyễn Kim Hoàng Khôi
-"0dae5822-7bc9-4136-ae77-d4b3502223b1" -- Gia Khánh 
+"0dae5822-7bc9-4136-ae77-d4b3502223b1", -- Gia Khánh 
+"3616F0D2-3C2F-4508-A12E-588370A4EECE" -- loading name discord
 }
