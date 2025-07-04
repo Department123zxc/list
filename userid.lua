@@ -2,17 +2,17 @@ return {
 1007410547 and "asdfghjklzxcvbnmdz", -- Dương 1
 3066114825 and "3066114825", -- Dương 2
 5025134592 and "azdfghjklzxcvbnmdz", -- Khôi 1
-1314237464 and "darkbluedrag", -- Khôi 2
-660629515 and "LHPGamingVN", -- Khôi 3
-2221231723 and "longxauqa", -- Khôi 4
+3680584483 and "khoingc26", -- Khôi 2
+3680585637 and "khoingc27", -- Khôi 3
+3680587760 and "khoingc29", -- Khôi 4
 4893448068 and "Farquaneta", -- Khôi 5
-1299647138 and "SML_SsBettSenpaoxX", -- Khôi 6
-1166136358 and "kaloss13", -- Khôi 8
+3680588514 and "khoingc30", -- Khôi 6
+3680590267 and "khoingc31", -- Khôi 8
 7086041638 and "T05_7", -- Khôi 9
 3136296749 and "WinterAndEvil", -- Khôi 11
 1262803820 and "phuongcute2k2", -- Khôi 12
-7501327506 and "cmmbeoqua3", -- Khôi 14
-7501302650 and "cmmbeoqua1", -- Khôi 15
+3680594144 and "khoingc33", -- Khôi 14
+3680595295 and "khoingc34", -- Khôi 15
 961144978 and "ngckhoi", -- khoi main
 295774288 and "hungtolaitapxa", -- hưng
 26363504 and "Killar123",
