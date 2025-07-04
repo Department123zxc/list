@@ -1,20 +1,20 @@
 return {
-"", -- m1
+"khoingc34", -- m1
 "LHPGamingVN", -- Khôi 3
 "SML_SsBettSenpaoxX", -- Khôi 6
-"azdfghjklzxcvbnmdz", -- Khôi 7
-"kaloss13", -- Khôi 8
-"cmmbeoqua3", -- khoi 13
-"Killar123",
+"khoingc35", -- Khôi 7
+"khoingc36", -- Khôi 8
+"khoingc31", -- khoi 13
+"khoingc29",
 "highmook",
-"OmegaHackzorz", -- khoi
-"Imlovinitallday",
-"SPxtritoxic113",
+"khoingc27", -- khoi
+"khoingc26",
+"khoingc37",
 "vuichtuan09",
 "ngckhoi",
 "T05_7",
 "asdfghjklzxcvbnmdz",
-"darkbluedrag",
+"khoingc33",
 "WinterAndEvil",
 "khoingc42",
 "Farquaneta",
