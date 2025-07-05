@@ -1,6 +1,6 @@
 return {
 "khoingc34", -- m1
-"LHPGamingVN", -- Khôi 3
+"khoingc30", -- Khôi 3
 "SML_SsBettSenpaoxX", -- Khôi 6
 "khoingc35", -- Khôi 7
 "khoingc36", -- Khôi 8
