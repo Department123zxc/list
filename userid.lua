@@ -11,11 +11,11 @@ return {
 7086041638 and "T05_7", -- Khôi 9
 3136296749 and "WinterAndEvil", -- Khôi 11
 1262803820 and "phuongcute2k2", -- Khôi 12
-3680594144 and "khoingc33", -- Khôi 14
-3680595295 and "khoingc34", -- Khôi 15
+3680607367 and "khoingc43", -- Khôi 14
+3680608796 and "khoingc44", -- Khôi 15
 961144978 and "ngckhoi", -- khoi main
-295774288 and "hungtolaitapxa", -- hưng
-26363504 and "Killar123",
+3680611233 and "khoingc46", -- hưng
+3680609759 and "khoingc45",
 27037854 and "highmook", -- khoi
 1498036295 and "CauNoob2020",
 1323012227 and "SPxtritoxic113",
