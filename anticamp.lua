@@ -2,7 +2,7 @@ return {
 "khoingc43", -- m1
 "khoingc30", -- Khôi 3
 "SML_SsBettSenpaoxX", -- Khôi 6
-"khoingc44", -- Khôi 7
+"CornealGlitters", -- Khôi 7
 "khoingc45", -- Khôi 8
 "khoingc31", -- khoi 13
 "khoingc29",
@@ -23,6 +23,6 @@ return {
 "CauNoob2020",
 "khoingc32",
 "JoeNeedDF",
-"khoingc25",
+"nastydragon2",
 "golem0967"
 }
