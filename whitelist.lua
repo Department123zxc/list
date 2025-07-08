@@ -75,7 +75,7 @@ return {
 "1c9dedde-4a95-46f7-9835-8abb67018cac", -- Nhật Quang
 "ddf946f1-19a2-4aa6-a953-fff5a887e680", --Hoàng Đức Nguyễn
 "590E0201-3D17-41AB-9A78-8B4ED2C0D456", -- Trần Khanh
-"cc9142d2-ee23-4787-9d00-52272b2b3dd0", -- Trần Khánh
+"c7b01a29-f35e-4793-854f-f6f8ba0faa30", -- Trần Khánh
 "16c48b8d-33c7-415a-aca5-71ee338d78d4", -- Rig Motee
 "C6D4C2BB-533B-4278-854F-29D585F94103", -- Rig Motee 2
 "30bb5c1f-40ea-4548-942e-fb4e68ecc7cc", -- Mạnh Nhất Lịch Sử
