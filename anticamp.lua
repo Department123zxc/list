@@ -1,7 +1,7 @@
 return {
-"khoingc43", -- m1
+"khoingc22", -- m1
 "khoingc30", -- Khôi 3
-"SML_SsBettSenpaoxX", -- Khôi 6
+"khoingc27", -- Khôi 6
 "CornealGlitters", -- Khôi 7
 "khoingc45", -- Khôi 8
 "khoingc31", -- khoi 13
