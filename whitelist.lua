@@ -84,7 +84,7 @@ return {
 "a3b57364-c49f-440e-91a9-0cfb69bc6841", -- Phạm Nguyên Hạo
 "6A760313-4C3E-4C07-AC01-92A594FF3DB2", -- Võ Thạnh
 "2538837a-34ae-4bf1-932e-324eff2df1af", -- Nguyễn Kim Hoàng Khôi
-"48873a4a-9b5c-4486-83d5-c531a0b10059", -- Quý Trương Minh
+"c21b2839-2f3b-49f4-b69a-7fe5ff2bd627", -- Quý Trương Minh
 "5de56483-8942-44e7-a6e2-d87ce6682379", -- Huỳnh Chung Nam
 "ca292a56-c969-4c93-8d73-5adb80cfdece", --- Phương Loan
 "01518eba-fcd9-4610-b017-e3679c388e9e", -- Nguyễn Hữu Đạt
