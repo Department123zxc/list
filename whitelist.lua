@@ -91,5 +91,7 @@ return {
 "7c94ccc0-3d1a-40fa-aa95-d02c5b80ff3b", -- Dray Wakins
 "0dae5822-7bc9-4136-ae77-d4b3502223b1", -- Gia Khánh 
 "252917f5-c3be-4ee7-a42f-2b4a162f86c0", -- Nguyen Quang Long
-"062abea6-af1b-440c-9164-ea751e432a7f" -- loading name discord
+"062abea6-af1b-440c-9164-ea751e432a7f", -- loading name discord
+"fe060bd3-0b7b-4806-a4b2-849e8ec4c415" -- Phạm Duy
+  
 }
