@@ -78,7 +78,7 @@ return {
 "c7b01a29-f35e-4793-854f-f6f8ba0faa30", -- Trần Khánh
 "ec5d1316-224d-413d-b9e7-6c31775a69b3", -- Rig Motee
 "a6c0d64d-4fb1-45a5-8532-4eb953f459a8", -- Rig Motee 2
-"30bb5c1f-40ea-4548-942e-fb4e68ecc7cc", -- Mạnh Nhất Lịch Sử
+"7c8035f2-b19f-47da-8026-fb5b5638c075", -- Mạnh Nhất Lịch Sử
 "00d7f407-b938-4134-8ea7-67755db74cf4", --Huỳnh Hoài Thương
 "379ccac3-7ed3-4fd0-9e49-f35751ed3c1d", -- pp discord
 "52294c8b-03d9-49e8-9805-798678ffe277", -- Phạm Nguyên Hạo
@@ -90,7 +90,7 @@ return {
 "01518eba-fcd9-4610-b017-e3679c388e9e", -- Nguyễn Hữu Đạt
 "7c94ccc0-3d1a-40fa-aa95-d02c5b80ff3b", -- Dray Wakins
 "0dae5822-7bc9-4136-ae77-d4b3502223b1", -- Gia Khánh 
-"252917f5-c3be-4ee7-a42f-2b4a162f86c0", -- Nguyen Quang Long
+"9a445a88-4316-4532-b782-710dfc1c37ea", -- Nguyen Quang Long
 "062abea6-af1b-440c-9164-ea751e432a7f", -- loading name discord
 "fe060bd3-0b7b-4806-a4b2-849e8ec4c415" -- Phạm Duy
   
