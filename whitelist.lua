@@ -73,7 +73,7 @@ return {
 "4841e945-2929-4881-9a8a-a7dc52d201b7", -- Ngô Gia Huy (22/06)
 "7e83bdf4-6413-4a82-9a8e-a947ba79590a", -- Ngô Gia Huy 2 (22/06)
 "1c9dedde-4a95-46f7-9835-8abb67018cac", -- Nhật Quang
-"ddf946f1-19a2-4aa6-a953-fff5a887e680", --Hoàng Đức Nguyễn
+"cca7e218-e5d5-4e65-8ebf-4e8db762f0ac", --Hoàng Đức Nguyễn
 "590E0201-3D17-41AB-9A78-8B4ED2C0D456", -- Trần Khanh
 "c7b01a29-f35e-4793-854f-f6f8ba0faa30", -- Trần Khánh
 "ec5d1316-224d-413d-b9e7-6c31775a69b3", -- Rig Motee
