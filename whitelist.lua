@@ -90,7 +90,7 @@ return {
 "01518eba-fcd9-4610-b017-e3679c388e9e", -- Nguyễn Hữu Đạt
 "7c94ccc0-3d1a-40fa-aa95-d02c5b80ff3b", -- Dray Wakins
 "0dae5822-7bc9-4136-ae77-d4b3502223b1", -- Gia Khánh 
-"9a445a88-4316-4532-b782-710dfc1c37ea", -- Nguyen Quang Long
+"b75da66a-e19e-4c72-b514-3c8deb48c4ad", -- Nguyen Quang Long
 "062abea6-af1b-440c-9164-ea751e432a7f", -- loading name discord
 "9ccb38c6-6c54-44e7-acc0-9c5ca2fdf123" -- Phạm Duy
   
