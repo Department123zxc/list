@@ -83,7 +83,7 @@ return {
 "379ccac3-7ed3-4fd0-9e49-f35751ed3c1d", -- pp discord
 "52294c8b-03d9-49e8-9805-798678ffe277", -- Phạm Nguyên Hạo
 "6A760313-4C3E-4C07-AC01-92A594FF3DB2", -- Võ Thạnh
-"2538837a-34ae-4bf1-932e-324eff2df1af", -- Nguyễn Kim Hoàng Khôi
+"ca02e126-04bf-4be8-9389-3c21f69e72b6", -- Nguyễn Kim Hoàng Khôi
 "d73a7f65-5a0d-4a44-8c00-98fcefdb3bb9", -- Quý Trương Minh
 "37bebb6f-52eb-4bb3-b504-046554e95ba9", -- Huỳnh Chung Nam
 "ca292a56-c969-4c93-8d73-5adb80cfdece", --- Phương Loan
