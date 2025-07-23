@@ -17,7 +17,7 @@ return {
 "ce32ddc9-61ad-4c3d-a9a1-7b96b8dc211b", -- Tài Nguyễn
 "3d863fb5-e210-4cd1-a789-0b43d6cd1bcc", -- Lâm Quốc Bảo
 "fefe4665-325a-447b-bcff-52bc24c8c8c3", -- Tạ Khánh
-"df0a941b-7fd9-45a0-b19c-a6d723418a8e", -- Duy Pham
+"8395fd2f-c614-490d-acc3-72aad2a746c4", -- Duy Pham
 "be33e01c-7a86-4a69-bf87-9383508c959a", -- Trần Minh Đạt
 "0E81C49D-FD42-4539-B75B-3A3FDA62CDAB", -- Huyy Niee
 "5d3460fc-c76c-45d6-bba5-d96e8c3c712f", -- Huyy Niee 2
@@ -90,7 +90,7 @@ return {
 "01518eba-fcd9-4610-b017-e3679c388e9e", -- Nguyễn Hữu Đạt
 "7c94ccc0-3d1a-40fa-aa95-d02c5b80ff3b", -- Dray Wakins
 "0dae5822-7bc9-4136-ae77-d4b3502223b1", -- Gia Khánh 
-"d84f8d90-6878-456f-b78d-9a9612c516a0", -- Nguyen Quang Long
+"6c701bfb-9e2d-4802-a3be-be6da129de31", -- Nguyen Quang Long
 "062abea6-af1b-440c-9164-ea751e432a7f", -- loading name discord
 "8395fd2f-c614-490d-acc3-72aad2a746c4" -- Phạm Duy
   
