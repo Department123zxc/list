@@ -92,6 +92,8 @@ return {
 "0dae5822-7bc9-4136-ae77-d4b3502223b1", -- Gia Khánh 
 "6c701bfb-9e2d-4802-a3be-be6da129de31", -- Nguyen Quang Long
 "062abea6-af1b-440c-9164-ea751e432a7f", -- loading name discord
-"8395fd2f-c614-490d-acc3-72aad2a746c4" -- Phạm Duy
+"8395fd2f-c614-490d-a72aad2a746c4", -- Phạm Duy
+"5fd54ff4-5c1e-4fc0-b17c-db4edd25bea2" -- discord h_pet
+
   
 }
