@@ -44,7 +44,7 @@ return {
 "8b91e3a1-dbde-42c3-8327-2ecaecebfb83", -- Quang Huy
 "34e4083b-ac94-4bb9-8f8a-9cb516df5dbc", -- Hieu Quyet Vu
 "d2126eb3-ae9d-4eb3-8fd4-c6641502772c", -- Phạm Long
-"4336409d-bb3b-42c4-842b-6cb8eb3c9f86", -- Xiao Nima
+"08d79f22-2ca8-4db3-932a-f6f6da2867ff", -- Xiao Nima
 "CA1E9954-35F0-4CE3-B0B5-392EA181EBC4", -- Xiao Nima 2
 "d3605720-8610-4860-a367-39952024e6f7", -- Boredz
 "f7497d15-d0ce-4538-9fe0-19fad408dc4e", -- Lê Hiếu
