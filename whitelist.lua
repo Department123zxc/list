@@ -54,7 +54,7 @@ return {
 "cc57ca57-ba55-4026-90d5-84ed0815b275", -- Miya Cqwq
 "CE26CD5E-8BCA-47B9-BDFE-7BFFE6E69FBD", -- Gao Ne Troi
 "1D9ACB6F-4030-49D7-8717-7C25EBDBDF52", -- Gao Ne Troi 2
-"f43db51c-fa94-4e8f-b570-b295d56a9936", -- Hoang Khai
+"0f476984-555f-447e-a49a-8ab39ba29c4d", -- Hoang Khai
 "781adb84-84a7-4988-8b74-762dc550f000", -- Nguyễn Đăng
 "F5D44588-38C5-490B-8707-478E01B940E3", -- Nguyen Chuong
 "F9B564F3-7251-412F-9C4B-96727D800A6B", -- TÔI TÊN TỎ
@@ -79,7 +79,7 @@ return {
 "6a90edd4-6740-49d0-af1d-0fdfe3df9782", -- Rig Motee 1
 "f5a1d60c-6f8f-4ef8-a91e-f7c34b0008dc", -- Rig Motee 2
 "10394488-0956-48dd-8435-d467dfd8d34b", -- Rig Motee 3
-"31399a75-fc38-4e6c-8809-f04d357a3616", -- Mạnh Nhất Lịch Sử
+"dedad258-65b0-4995-af8d-f53326dd4f7c", -- Mạnh Nhất Lịch Sử
 "00d7f407-b938-4134-8ea7-67755db74cf4", --Huỳnh Hoài Thương
 "379ccac3-7ed3-4fd0-9e49-f35751ed3c1d", -- pp discord
 "aa83727a-d6b8-4f5f-9263-b15ffac5d96f", -- Phạm Nguyên Hạo
