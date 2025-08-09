@@ -94,7 +94,7 @@ return {
 "cf4b6729-06e4-4df7-bfda-16de9a5e0786", -- Nguyen Quang Long
 "062abea6-af1b-440c-9164-ea751e432a7f", -- loading name discord
 "bf34dd81-f3bb-4d4f-88d7-b8308aa826f9", -- Phạm Duy
-"a4db5975-78fe-42ba-b192-0198c3fcf34a", -- Bank Bank
+"61b00458-3a89-4bfa-bf0d-074b9c0d5e02", -- Bank Bank
 "5fd54ff4-5c1e-4fc0-b17c-db4edd25bea2", -- discord h_pet
 "2febbd17-8141-4d99-83fb-968d13b3fef8" -- Nhan Ngg
 
