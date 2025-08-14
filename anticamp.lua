@@ -10,7 +10,6 @@ return {
 "khoingc27", -- khoi
 "khoingc26",
 "Robloxvietnam78",
-"vuichtuan09",
 "ngckhoi",
 "T05_7",
 "asdfghjklzxcvbnmdz",
