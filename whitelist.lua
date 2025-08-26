@@ -96,7 +96,7 @@ return {
 "f3720f38-63da-438c-aeb8-fde82ca90ada", -- Phạm Duy
 "61b00458-3a89-4bfa-bf0d-074b9c0d5e02", -- Bank Bank
 "5fd54ff4-5c1e-4fc0-b17c-db4edd25bea2", -- discord h_pet
-"0e7f9817-1fed-4939-9cc8-968fc059604a", -- Luân Trái Cây
+"16af7350-81dc-47d7-981a-3164284014d7", -- Luân Trái Cây
 "12903fe1-29f8-4634-bceb-e24a0c92cc7e", -- Nhan Ngg
 "fa882a40-0603-43db-8349-643cbafcec11" -- Reiji Azuma
 
