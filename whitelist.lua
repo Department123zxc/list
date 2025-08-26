@@ -93,7 +93,7 @@ return {
 "0dae5822-7bc9-4136-ae77-d4b3502223b1", -- Gia Khánh 
 "771d30ad-6292-415f-a626-82b293807faa", -- Nguyễn Khánh
 "062abea6-af1b-440c-9164-ea751e432a7f", -- loading name discord
-"f3720f38-63da-438c-aeb8-fde82ca90ada", -- Phạm Duy
+"650da40f-51e2-41ac-922f-0677192d2f1f", -- Phạm Duy
 "61b00458-3a89-4bfa-bf0d-074b9c0d5e02", -- Bank Bank
 "5fd54ff4-5c1e-4fc0-b17c-db4edd25bea2", -- discord h_pet
 "16af7350-81dc-47d7-981a-3164284014d7", -- Luân Trái Cây
